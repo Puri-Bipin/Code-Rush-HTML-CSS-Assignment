@@ -120,9 +120,10 @@
   /* Style the container */
   .container {
 	border-radius: 5px;
-	background-color: #f2f2f2;
+	background-color: #F0AB69;
 	padding: 20px;
-	width: 100%
+	width: 40%;
+	justify-content: center
   }
   
   /* Floating column for labels: 25% width */
